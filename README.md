@@ -3,6 +3,7 @@
 Sentiment Analysis API – Scalable, Real-Time Sentiment Prediction
 
 ![image](https://github.com/user-attachments/assets/95d75b6f-ae10-409a-af6c-8e69d0901471)
+![Screenshot 2024-11-13 224308](https://github.com/user-attachments/assets/f2aaecd0-ba68-42cc-9e9e-d001fcb3a555)
 
 
 Objective:
