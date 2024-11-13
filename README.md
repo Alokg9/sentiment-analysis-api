@@ -3,8 +3,14 @@
 Sentiment Analysis API – Scalable, Real-Time Sentiment Prediction
 
 ![image](https://github.com/user-attachments/assets/95d75b6f-ae10-409a-af6c-8e69d0901471)
-![Screenshot 2024-11-13 224308](https://github.com/user-attachments/assets/f2aaecd0-ba68-42cc-9e9e-d001fcb3a555)
-
+![Screenshot 2024-11-13 224007](https://github.com/user-attachments/assets/8f6c0695-0c22-448d-bf18-a0ecade86278)
+![Screenshot 2024-11-13 224103](https://github.com/user-attachments/assets/97f8f68b-0247-4da5-914a-26ea71721633)
+![Screenshot 2024-11-13 224125](https://github.com/user-attachments/assets/a1392026-0c77-46d1-93e3-0298602ab38a)
+![Screenshot 2024-11-13 224140](https://github.com/user-attachments/assets/da1bb70e-53f3-4b8f-b8d8-d0b75924903a)
+![Screenshot 2024-11-13 224234](https://github.com/user-attachments/assets/1b8329a3-2d3c-455b-8aad-43d65b4bf83c)
+![Screenshot 2024-11-13 224251](https://github.com/user-attachments/assets/1120ab5a-376b-4871-b28f-2d223b40a7d5)
+![Screenshot 2024-11-13 224308](https://github.com/user-attachments/assets/29ce53b5-a81f-4239-a648-f49eb4b4e9af)
+![Screenshot 2024-11-13 223942](https://github.com/user-attachments/assets/173ab8d7-29ad-45b2-bad4-739cf25f4851)
 
 Objective:
 Develop a high-performance Sentiment Analysis API that handles large-scale requests with low latency using FastAPI. The goal was to optimize for speed, accuracy, and scalability by integrating advanced technologies and deploying robust methodologies.
